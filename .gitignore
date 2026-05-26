@@ -1,0 +1,22 @@
+# Build artifacts
+dist/
+build/
+*.exe
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE / editor
+.ruby-lsp/
+.vscode/
+.idea/
+
+# Test / temp files
+*_backup.skp
+test_*.py
+compare_*.py
+analyze_*.py
+inspect_*.py
+apply_fixes.py
