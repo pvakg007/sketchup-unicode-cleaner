@@ -54,7 +54,7 @@ SketchUp 材质/组件名称清理 + 贴图复制工具集。将模型中的中�
 
 ## 2. Python GUI 工具 (`skp_texture_copier_gui.py`)
 
-独立的 Windows GUI 工具，**不需要打开 SketchUp**，直接读取 .skp 文件（ZIP 格式）内部结构处理贴图。
+独立的 Windows GUI 工具，**不需要打开 SketchUp**，直接读取 .skp 文件（ZIP 格式）内部结构处理渲染插件Thearender连接的贴图，该工具生成的文件需使用Sketchup2024-2026打开。
 
 ### 启动方式
 
